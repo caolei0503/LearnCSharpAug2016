@@ -20,6 +20,7 @@ namespace ThreadingApp
             //timer.RunTimer();
 
             ThreadPoolExample.MainExecute();
+            Console.WriteLine("ok");
         }
     }
 }
